@@ -1,0 +1,29 @@
+{
+  "name": "pjaitersgulpadventure",
+  "version": "1.0.0",
+  "description": "yolo waterpolo",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterxqe/pjaitersgulpadventure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterxqe/pjaitersgulpadventure/issues"
+  },
+  "homepage": "https://github.com/peterxqe/pjaitersgulpadventure#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-requirejs": "^1.0.0-rc2",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11",
+    "gulp-watcher": "^1.0.1",
+    "require-dir": "^0.3.1",
+    "run-sequence": "^1.2.2"
+  }
+}
